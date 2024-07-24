@@ -34,3 +34,16 @@ It doesn't look like weather had much affect on acceptance.
 And the highest acceptance rate is at 10am.
 
 ![image](https://github.com/user-attachments/assets/b2ba998b-462e-4aeb-b652-02e1fc8054b4)
+
+
+Since we've identified a few factors that affect the overall acceptance of coupons.
+We can identify other factors that affect acceptance like 
+- Different occupations
+- Distance
+- Education
+- Number of children
+
+We can further work on identifying the factors that affect the other coupons i.e.,
+- Restaurant (<20)
+- Restaurant (20-50)
+- Carry Out & Take away
