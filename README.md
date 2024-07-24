@@ -36,6 +36,7 @@ And the highest acceptance rate is at 10am.
 ![image](https://github.com/user-attachments/assets/b2ba998b-462e-4aeb-b652-02e1fc8054b4)
 
 
+Next Steps:
 Since we've identified a few factors that affect the overall acceptance of coupons.
 We can identify other factors that affect acceptance like 
 - Different occupations
