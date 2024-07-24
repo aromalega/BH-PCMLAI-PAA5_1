@@ -5,6 +5,10 @@ Data:
 This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, passenger, etc., and then asks people whether they will accept the coupon if they are the driver. Answers given that the users will drive there “right away” or “later before the coupon expires” are labeled as “Y = 1”, and answers “no, I do not want the coupon” are labeled as “Y = 0”. There are five different types of coupons—less expensive restaurants (under $20), coffee houses, carry out and take away, bars, and more expensive restaurants ($20–$50).
 
 Deliverable:
+Here's the link to my jupyter notebook
+https://github.com/aromalega/BH-PCMLAI-PAA5_1/blob/3f7d8ce057f1a4a83b96484dbc71f693252f38fa/prompt.ipynb
+
+Below are my findings
 The percentage acceptance of coupons on entire data set is 56.8% with different coupons inorder from highest to lowest   
    - Coffee House, 
    - Restaurant(<20), 
