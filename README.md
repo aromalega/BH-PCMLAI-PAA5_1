@@ -6,11 +6,12 @@ This data comes to us from the UCI Machine Learning repository and was collected
 
 Deliverable:
 The percentage acceptance of coupons on entire data set is 56.8% with different coupons inorder from highest to lowest   
-    Coffee House, 
-    Restaurant(<20), 
-    Carry out & Take away, 
-    Bar, 
-    Restaurant(20-50)
+   - Coffee House, 
+   - Restaurant(<20), 
+   - Carry out & Take away, 
+   - Bar, 
+   - Restaurant(20-50)
+     
 ![image](https://github.com/user-attachments/assets/e05d0a95-8f4a-45be-8b5b-509e1e8f2b0d)
 
 
